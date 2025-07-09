@@ -1,0 +1,19 @@
+
+Order Date and Time: 03:44 AM, 26/06/2025
+===============================================
+Espresso - Quantity: 1 - Price per unit: 300 - Subtotal: 300
+Americano - Quantity: 1 - Price per unit: 150 - Subtotal: 150
+Latte - Quantity: 1 - Price per unit: 250 - Subtotal: 250
+Cappuccino - Quantity: 1 - Price per unit: 180 - Subtotal: 180
+Mocha - Quantity: 1 - Price per unit: 350 - Subtotal: 350
+-----------------------------------------------
+Total Price: 1230
+===============================================
+
+Order Date and Time: 03:57 AM, 26/06/2025
+===============================================
+Americano - Quantity: 6 - Price per unit: 150 - Subtotal: 900
+-----------------------------------------------
+Total Price: 900
+===============================================
+
